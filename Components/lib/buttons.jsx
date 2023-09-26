@@ -1,6 +1,5 @@
 //Button type: primary | secondary
 //Button className(tailwing classes): p-4 | p-2.5 | p-1.5 (padding is need)
-import Image from 'next/image';
 export default function Button({
 	children,
 	type = 'primary',

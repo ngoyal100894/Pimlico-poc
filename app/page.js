@@ -8,10 +8,7 @@ const page = () => {
 			<p className="text-gray-500">
 				The page you are looking for does not exist.
 			</p>
-			<button
-				className="bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded"
-				onClick={() => router.push('/')}
-			>
+			<button className="bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded">
 				Go Home
 			</button>
 		</div>
