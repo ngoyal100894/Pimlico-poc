@@ -17,11 +17,15 @@ module.exports = {
 			fontFamily: {
 				bebas: ['Bebas Neue', ...defaultTheme.fontFamily.sans],
 				inter: ['Inter'],
-				openSans: ['Open Sans'],
+				sans: ['Open Sans', 'sans-serif'],
+				lexend: ['Lexend'],
 			},
 			colors: {
 				Primary: {
 					900: 'rgba(214, 0, 0, 1)',
+				},
+				Success: {
+					900: 'rgba(19, 110, 43, 1)',
 				},
 				Secondary: {
 					900: 'rgba(52, 64, 84, 1)',

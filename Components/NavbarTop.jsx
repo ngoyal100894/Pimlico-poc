@@ -80,7 +80,7 @@ const NavbarTop = () => {
 					/>
 					<Image
 						className="self-center"
-						src={'/assets/drop-arrow.svg'}
+						src={'/assets/drop-arrow-white.svg'}
 						width={20}
 						height={20}
 						alt={'facebook page'}

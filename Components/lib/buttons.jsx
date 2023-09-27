@@ -20,6 +20,18 @@ export default function Button({
 					</button>
 				</div>
 			) : null}
+			{type === 'success' ? (
+				<div className="relative">
+					<button
+						onClick={(e) => {
+							onClick === null || onClick === void 0 ? void 0 : onClick(e);
+						}}
+						className={`flex  flex-row items-center rounded-md px-5 py-4 font-semibold bg-Success-900  text-white text-xs  ${className} `}
+					>
+						<span className="flex  flex-row items-center">{children}</span>
+					</button>
+				</div>
+			) : null}
 			{type === 'outline' ? (
 				<div className="relative">
 					<button
