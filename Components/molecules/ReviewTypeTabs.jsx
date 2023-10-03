@@ -28,7 +28,7 @@ const ReviewTypeTabs = () => {
 			<div className="flex flex-row justify-between">
 				<div></div>
 				<Button type="primary" onClick={() => {}}>
-					Write a review
+					Write a reviews
 				</Button>
 			</div>
 		</div>
