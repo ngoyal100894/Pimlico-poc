@@ -1,0 +1,163 @@
+[
+	{
+		"name": "John Doe",
+		"reviewText": "This restaurant is amazing! The food is delicious and the service is excellent. I highly recommend the steak frites and the chocolate lava cake.",
+		"reviewStars": 5,
+		"platform": "Google",
+		"date": "2023-09-29T21:22:19Z"
+	},
+	{
+		"name": "Jane Doe",
+		"reviewText": "I had a great experience at this restaurant. The food was delicious and the prices were reasonable. I especially enjoyed the pasta carbonara and the tiramisu.",
+		"reviewStars": 4.5,
+		"platform": "Facebook",
+		"date": "2023-09-28T21:22:19Z"
+	},
+	{
+		"name": "Peter Parker",
+		"reviewText": "This restaurant is my new favorite place to eat. The food is always fresh and delicious, and the service is top-notch. I highly recommend the fish and chips and the key lime pie.",
+		"reviewStars": 5,
+		"platform": "Tripadvisor",
+		"date": "2023-09-27T21:22:19Z"
+	},
+	{
+		"name": "Mary Jane Watson",
+		"reviewText": "I had a wonderful time at this restaurant. The food was amazing and the atmosphere was very inviting. I will definitely be back to try the pizza and the gelato.",
+		"reviewStars": 4.5,
+		"platform": "Yell",
+		"date": "2023-09-26T21:22:19Z"
+	},
+	{
+		"name": "Bruce Wayne",
+		"reviewText": "This restaurant is the best in town! The food is always excellent and the service is impeccable. I highly recommend the lobster roll and the chocolate fondue.",
+		"reviewStars": 5,
+		"platform": "Yelp",
+		"date": "2023-09-25T21:22:19Z"
+	},
+	{
+		"name": "Clark Kent",
+		"reviewText": "I had a fantastic meal at this restaurant. The food was cooked to perfection and the service was outstanding. I will definitely be returning to try the tasting menu and the wine pairings.",
+		"reviewStars": 5,
+		"platform": "Google",
+		"date": "2023-09-24T21:22:19Z"
+	},
+	{
+		"name": "Lois Lane",
+		"reviewText": "This restaurant is a must-visit for anyone looking for a delicious and affordable meal. The food was amazing and the service was excellent. I will definitely be back to try the brunch menu and the cocktails.",
+		"reviewStars": 4.5,
+		"platform": "Facebook",
+		"date": "2023-09-23T21:22:19Z"
+	},
+	{
+		"name": "Bruce Banner",
+		"reviewText": "I had an incredible experience at this restaurant. The food was exquisite and the service was beyond compare. I highly recommend the omakase menu and the sake selection.",
+		"reviewStars": 5,
+		"platform": "Tripadvisor",
+		"date": "2023-09-22T21:22:19Z"
+	},
+	{
+		"name": "Natasha Romanoff",
+		"reviewText": "This restaurant is one of the best I've ever been to. The food was absolutely delicious and the service was impeccable. I highly recommend the duck confit and the crème brûlée.",
+		"reviewStars": 5,
+		"platform": "Yell",
+		"date": "2023-09-21T21:22:19Z"
+	},
+	{
+		"name": "John Doe",
+		"reviewText": "This restaurant is amazing! The food is delicious and the service is excellent. I highly recommend the steak frites and the chocolate lava cake.",
+		"reviewStars": 5,
+		"platform": "Google",
+		"date": "2023-09-29T21:22:19Z"
+	},
+	{
+		"name": "Jane Doe",
+		"reviewText": "I had a great experience at this restaurant. The food was delicious and the prices were reasonable. I especially enjoyed the pasta carbonara and the tiramisu.",
+		"reviewStars": 4.5,
+		"platform": "Facebook",
+		"date": "2023-09-28T21:22:19Z"
+	},
+	{
+		"name": "Peter Parker",
+		"reviewText": "This restaurant is my new favorite place to eat. The food is always fresh and delicious, and the service is top-notch. I highly recommend the fish and chips and the key lime pie.",
+		"reviewStars": 5,
+		"platform": "Tripadvisor",
+		"date": "2023-09-27T21:22:19Z"
+	},
+	{
+		"name": "Mary Jane Watson",
+		"reviewText": "I had a wonderful time at this restaurant. The food was amazing and the atmosphere was very inviting. I will definitely be back to try the pizza and the gelato.",
+		"reviewStars": 4.5,
+		"platform": "Yell",
+		"date": "2023-09-26T21:22:19Z"
+	},
+	{
+		"name": "Bruce Wayne",
+		"reviewText": "This restaurant is the best in town! The food is always excellent and the service is impeccable. I highly recommend the lobster roll and the chocolate fondue.",
+		"reviewStars": 5,
+		"platform": "Yelp",
+		"date": "2023-09-25T21:22:19Z"
+	},
+	{
+		"name": "Clark Kent",
+		"reviewText": "I had a fantastic meal at this restaurant. The food was cooked to perfection and the service was outstanding. I will definitely be returning to try the tasting menu and the wine pairings.",
+		"reviewStars": 5,
+		"platform": "Google",
+		"date": "2023-09-24T21:22:19Z"
+	},
+	{
+		"name": "Lois Lane",
+		"reviewText": "This restaurant is a must-visit for anyone looking for a delicious and affordable meal. The food was amazing and the service was excellent. I will definitely be back to try the brunch menu and the cocktails.",
+		"reviewStars": 4.5,
+		"platform": "Facebook",
+		"date": "2023-09-23T21:22:19Z"
+	},
+	{
+		"name": "Bruce Banner",
+		"reviewText": "I had an incredible experience at this restaurant. The food was exquisite and the service was beyond compare. I highly recommend the omakase menu and the sake selection.",
+		"reviewStars": 5,
+		"platform": "Tripadvisor",
+		"date": "2023-09-22T21:22:19Z"
+	},
+	{
+		"name": "Natasha Romanoff",
+		"reviewText": "This restaurant is one of the best I've ever been to. The food was absolutely delicious and the service was impeccable. I highly recommend the duck confit and the crème brûlée.",
+		"reviewStars": 5,
+		"platform": "Yell",
+		"date": "2023-09-21T21:22:19Z"
+	},
+	{
+		"name": "John Doe",
+		"reviewText": "This restaurant is amazing! The food is delicious and the service is excellent. I highly recommend it!",
+		"reviewStars": 5,
+		"platform": "Google",
+		"date": "2023-09-29T21:22:19Z"
+	},
+	{
+		"name": "Jane Doe",
+		"reviewText": "I had a great experience at this restaurant. The food was delicious and the prices were reasonable. I will definitely be back!",
+		"reviewStars": 4.5,
+		"platform": "Facebook",
+		"date": "2023-09-28T21:22:19Z"
+	},
+	{
+		"name": "Peter Parker",
+		"reviewText": "This restaurant is my new favorite place to eat. The food is always fresh and delicious, and the service is top-notch. I highly recommend it!",
+		"reviewStars": 5,
+		"platform": "Tripadvisor",
+		"date": "2023-09-27T21:22:19Z"
+	},
+	{
+		"name": "Mary Jane Watson",
+		"reviewText": "I had a wonderful time at this restaurant. The food was amazing and the atmosphere was very inviting. I will definitely be back!",
+		"reviewStars": 4.5,
+		"platform": "Yell",
+		"date": "2023-09-26T21:22:19Z"
+	},
+	{
+		"name": "Bruce Wayne",
+		"reviewText": "This restaurant is the best in town! The food is always excellent and the service is impeccable. I highly recommend it!",
+		"reviewStars": 5,
+		"platform": "Yelp",
+		"date": "2023-09-25T21:22:19Z"
+	}
+]

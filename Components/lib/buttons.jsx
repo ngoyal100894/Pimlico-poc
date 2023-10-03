@@ -3,7 +3,7 @@
 export default function Button({
 	children,
 	type = 'primary',
-	className = '',
+	className,
 	onClick,
 }) {
 	return (
