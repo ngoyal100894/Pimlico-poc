@@ -1,11 +1,16 @@
 import Image from 'next/image';
 import React from 'react';
+import ReviewTypeTabs from './molecules/reviewTypeTabs';
+import ReviewActions from './ReviewActions';
+import ReviewsCarousel from './ReviewsCarousel';
 
 const ReviewSection = () => {
 	return (
 		<>
-			<section className="h-screen w-full bg-white text-black">
-				reviewss
+			<section className="h-screen w-full bg-white text-black py-14 px-14 flex flex-col gap-11 font-inter">
+				<ReviewTypeTabs />
+				<ReviewsCarousel />
+				<ReviewActions />
 			</section>
 			<section className="h-[455px] bg-[#F5F6F7] py-12 px-72 flex flex-col">
 				<div className="w-5/12 flex flex-col gap-10 self-center  ">
