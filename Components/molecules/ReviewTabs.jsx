@@ -4,7 +4,6 @@ import Button from '../lib/buttons';
 import Image from 'next/image';
 
 const ReviewTabs = ({ tabIndex = 0, setTabIndex }) => {
-	console.log(tabIndex);
 	return (
 		<div className="bg-[#E6E8EC] flex flex-col gap-11 rounded-md pb-11">
 			<div className="flex flex-row gap-14 text-[061C3D] text-sm pt-6 border-b-[1px] border-gray-300">
