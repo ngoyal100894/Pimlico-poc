@@ -1,14 +1,16 @@
+'use client';
 import Image from 'next/image';
-import React from 'react';
-import ReviewTypeTabs from './molecules/reviewTypeTabs';
+import React, { useState } from 'react';
+import ReviewTabs from './molecules/ReviewTabs';
 import ReviewActions from './ReviewActions';
 import ReviewsCarousel from './ReviewsCarousel';
 
 const ReviewSection = () => {
+	const [tabIndex, setTabIndex] = useState(0);
 	return (
 		<>
 			<section className="h-screen w-full bg-white text-black py-14 px-14 flex flex-col gap-11 font-inter">
-				<ReviewTypeTabs />
+				<ReviewTabs setTabIndex={setTabIndex} tabIndex={tabIndex} />
 				<ReviewsCarousel />
 				<ReviewActions />
 			</section>
